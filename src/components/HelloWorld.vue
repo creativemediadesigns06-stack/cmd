@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <h1 class="text-red-500">Hello World</h1>
+  <h1 class="text-red-500">Hello World, tailwind is working you can take this commit</h1>
 </template>
 
 <style scoped>
